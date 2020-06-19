@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-26T21:29:25+01:00</updated><id>/feed.xml</id><title type="html">Gnomengineer</title><subtitle>A small website displaying my experience and projects done as a software engineer</subtitle><entry><title type="html">Welcome to … well… here, I guess!</title><link href="/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to ... well... here, I guess!" /><published>2020-03-23T13:19:24+01:00</published><updated>2020-03-23T13:19:24+01:00</updated><id>/welcome-to-jekyll</id><content type="html" xml:base="/welcome-to-jekyll/">&lt;p&gt;Hello&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.8.6">Jekyll</generator>
+<link href="/feed.xml" rel="self" type="application/atom+xml" />
+<link href="/" rel="alternate" type="text/html" />
+<updated>2020-06-19T07:59:30+02:00</updated>
+<id>/</id>
+<subtitle>A small website displaying my experience and projects done as a software engineer</subtitle>
+<entry>
+<title>Welcome to … well… here, I guess!</title>
+<link href="/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to ... well... here, I guess!" />
+<published>2020-03-23T13:19:24+01:00</published>
+<updated>2020-03-23T13:19:24+01:00</updated>
+<id>/welcome-to-jekyll</id>
+<content type="html" xml:base="/welcome-to-jekyll/">&lt;p&gt;Hello&lt;/p&gt;
 
 &lt;p&gt;You seem to have stumbled upon this blog / project portfolio / self-promotion
 of me, the &lt;em&gt;gnomengineer&lt;/em&gt;.&lt;br /&gt;
@@ -27,4 +41,8 @@ With &lt;em&gt;worth sharing&lt;/em&gt; I mean they follow a plan and can give t
 
 &lt;p&gt;All in all, I hope you can get some value out of here.&lt;/p&gt;
 
-&lt;p&gt;— sincerely, &lt;em&gt;gnomengineer&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello You seem to have stumbled upon this blog / project portfolio / self-promotion of me, the gnomengineer. I started using this alias a while back and it still fits me to this day. My real name is Daniel and I’m an engineer in real as well. I finished my study as Software Engineer 2018 and work now for already aa couple of years in this field. As I begin to gather more knowledge I want to share this with you. Knowledge has a Beginning but no End — random internet quote Even thou my work experience is relatively low I already encountered a lot of situations and learned already a lot of stuff. With that and all the information and technology the future brings, I started this website. From time to time I will blog a bit. These blog posts will be a kind of a how-to on the topic they cover. Keep in mind that these posts are not a set way and should rather be used as guidelines through your work. I guess that’s as close as I can explain it. On the project side I will include ongoing or finished projects which are worth sharing. With worth sharing I mean they follow a plan and can give the developer or user more concrete information about them. All in all, I hope you can get some value out of here. — sincerely, gnomengineer</summary></entry></feed>
+&lt;p&gt;— sincerely, &lt;em&gt;gnomengineer&lt;/em&gt;&lt;/p&gt;
+</content>
+<summary>HelloYou seem to have stumbled upon this blog / project portfolio / self-promotionof me, the gnomengineer.I started using this alias a while back and it still fits me to this day.My real name is Daniel and I’m an engineer in real as well.I finished my study as Software Engineer 2018 and work now for already aa couple of years in this field.As I begin to gather more knowledge I want to share this with you.  Knowledge has a Beginning but no End— random internet quoteEven thou my work experience is relatively low I already encountered a lot of situations and learned already a lot of stuff.With that and all the information and technology the future brings, I started this website.From time to time I will blog a bit.These blog posts will be a kind of a how-to on the topic they cover.Keep in mind that these posts are not a set way and should rather be used as guidelines through your work.I guess that’s as close as I can explain it.On the project side I will include ongoing or finished projects which are worth sharing.With worth sharing I mean they follow a plan and can give the developer or user more concrete information about them.All in all, I hope you can get some value out of here.— sincerely, gnomengineer</summary>
+</entry>
+</feed>
